@@ -1,0 +1,22 @@
+.container {
+    padding-left: 40px;
+    width: 360px;
+}
+
+.text {
+    margin-bottom: 4px;
+    color: black;
+}
+
+
+
+.input {
+    border-radius: 8px;
+    height: 30px;
+    width: 340px;
+    padding: 0;
+    margin: 0;
+    border: 2px solid rgb(144, 144, 144);
+    background-color: rgb(213, 213, 213);
+    padding: 5px 10px;
+}

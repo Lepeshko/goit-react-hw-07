@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+p {
+    width: 200px;
+}
